@@ -1,0 +1,4 @@
+Potapov 12000
+Ivanov 34000
+Sidorov 56000
+Petrov 78000
